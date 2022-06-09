@@ -14,4 +14,4 @@ Wordie es un proyecto de PlayHoenicka. O jogo consiste em adivinhar letra pra fo
 
 Wordie ist ein PlayHoenicka-Projekt. Das Spiel besteht darin, Buchstaben zu erraten, um ein zufälliges Wort zu bilden (**auf Spanisch**), wenn der Spieler die Anzahl der falschen Buchstaben überschreitet, wird ein Körper gezogen, die Runde endet, wenn der Spieler das Wort richtig errät oder wenn der Körper vollständig gezogen ist
 
-<img src="/img/wordie.png" alt="playhoenicka wordie wordie.cka">
+<img src="/img/cap-wordie.png" alt="playhoenicka wordie wordie.cka">
