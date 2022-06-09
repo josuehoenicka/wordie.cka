@@ -1,3 +1,5 @@
+<img src="/img/cap-wordie.png" alt="playhoenicka wordie wordie.cka">
+
 <b>ENGLISH</b>
 
 Wordie is a PlayHoenicka project. The game consists of guessing letters to form a random word (**in Spanish**), if the player exceeds the number of wrong letters, a body will be drawn, the round ends when the player guesses the word correctly or when the body is fully drawn
@@ -13,5 +15,3 @@ Wordie es un proyecto de PlayHoenicka. O jogo consiste em adivinhar letra pra fo
 <b>GERMAN</b>
 
 Wordie ist ein PlayHoenicka-Projekt. Das Spiel besteht darin, Buchstaben zu erraten, um ein zufälliges Wort zu bilden (**auf Spanisch**), wenn der Spieler die Anzahl der falschen Buchstaben überschreitet, wird ein Körper gezogen, die Runde endet, wenn der Spieler das Wort richtig errät oder wenn der Körper vollständig gezogen ist
-
-<img src="/img/cap-wordie.png" alt="playhoenicka wordie wordie.cka">
